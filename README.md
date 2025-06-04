@@ -52,7 +52,7 @@ A full-featured food delivery web application built with modern technologies to 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/food-delivery-app.git
+git clone https://github.com/praveenkoliki11/Food-delivery-website.git
 cd food-delivery-app
 ```
 
@@ -155,10 +155,3 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - youremail@example.com
-
-Project Link: [https://github.com/your-username/food-delivery-app](https://github.com/your-username/food-delivery-app)
-
